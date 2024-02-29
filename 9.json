@@ -1,0 +1,47 @@
+{
+  "name": "GOOD KEMISTRY #9",
+  "description": "Onlly 100 brave owners will be able to transform a BAIC + a BAIC3D into an exclusive M1 MUTANT BAIC. To make this happen, magical S1 SERUM will be launched that will allow the merger of the 2 collections! This will create a more exclusive market and M1 Mutant BAIC holders will be able to stake their NFT to participate in the weekly rewards of $BANANA TOKEN",
+  "image": "ipfs://QmVcSEZKdG9T5XkWLepCKFvW6d36vveZ1rcmg7KNu5dK8C/9.png",
+  "dna": "611ad4e8f7829f3e600c46c36aa49a2dc6f390fc",
+  "edition": 9,
+  "date": 1708629958904,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "GreyBg"
+    },
+    {
+      "trait_type": "Face",
+      "value": "BrownOvalFace"
+    },
+    {
+      "trait_type": "Body",
+      "value": "TwoTestTubeLabCoat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DownturnedEyes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "BlondeSpikyHair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "LongNose"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "SquareBrownGlasses"
+    },
+    {
+      "trait_type": "Object",
+      "value": "Lightbulb"
+    }
+  ],
+  "compiler": "GOOD KEMISTRY"
+}
